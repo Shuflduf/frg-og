@@ -1,4 +1,8 @@
+> [!IMPORTANT]
+> The new frg is on https://github.com/Shuflduf/frg, this repo is up for archival purposes
+
 <img height="64" src="frg-icon.png">
+
 
 *The best programming language since it's named after frogs*
 
